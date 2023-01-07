@@ -3,5 +3,5 @@
 <b>Code editor<b> - Codesandbox<br/>
 This project was made with the intention learn basics of react. Re-rendening on state change was observed and learnt in this project<br/>
 The screenshot of result has been provided below
-![mark-8](https://user-images.githubusercontent.com/83093829/210936257-39351aa6-136f-4e2d-a6ef-8aadbfe6e7b5.png)
+![mark-9](https://user-images.githubusercontent.com/83093829/211165212-487341f5-408d-4d12-a265-20ee8131e071.png)
 
